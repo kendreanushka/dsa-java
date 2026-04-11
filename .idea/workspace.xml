@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5319a52-ea01-4246-a46c-7bf76ca2db60" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/p2_loops/f1_print1toN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2_loops/f2_printEvenODD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,18 +36,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kendreanushka"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kendreanushka&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kendreanushka/dsa-java.git",
-    "accountId": "a8b209b5-a78c-4203-a0b3-8fd22e786204"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kendreanushka/dsa-java.git&quot;,
+    &quot;accountId&quot;: &quot;a8b209b5-a78c-4203-a0b3-8fd22e786204&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -48,20 +60,111 @@
   "keyToString": {
     "Application.F1_sum2No.executor": "Run",
     "Application.F2_swapNo.executor": "Run",
+    "Application.Pattern1.executor": "Run",
+    "Application.Pattern10.executor": "Run",
+    "Application.Pattern11.executor": "Run",
+    "Application.Pattern12.executor": "Run",
+    "Application.Pattern13.executor": "Debug",
+    "Application.Pattern14.executor": "Run",
+    "Application.Pattern2.executor": "Run",
+    "Application.Pattern3.executor": "Run",
+    "Application.Pattern4.executor": "Run",
+    "Application.Pattern5.executor": "Run",
+    "Application.Pattern6.executor": "Run",
+    "Application.Pattern7.executor": "Run",
+    "Application.Pattern8.executor": "Run",
+    "Application.Pattern9.executor": "Run",
     "Application.f1_print1toN.executor": "Run",
     "Application.f2_printEvenODD.executor": "Run",
     "Application.f3_greaterNo.executor": "Run",
     "Application.f4_evenOdd.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/SHREE/IdeaProjects/dsa_java/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p3_patterns.Pattern1" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p3_patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p3_patterns.Pattern10" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p3_patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p3_patterns.Pattern11" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p3_patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p3_patterns.Pattern7" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p3_patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p3_patterns.Pattern9" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p3_patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pattern11" />
+        <item itemvalue="Application.Pattern1" />
+        <item itemvalue="Application.Pattern10" />
+        <item itemvalue="Application.Pattern9" />
+        <item itemvalue="Application.Pattern7" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -102,8 +205,27 @@
       <option name="project" value="LOCAL" />
       <updated>1772448624442</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1772730175125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772730175125</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
