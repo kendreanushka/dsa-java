@@ -4,9 +4,9 @@ public class F1_sum2No {
     public static void main(String args[]){
          Scanner s = new Scanner(System.in);
 
-         boolean isCondition = true;
+         boolean continuePrgrm = true;
 
-         while(isCondition) {
+         while(continuePrgrm) {
 
              System.out.println("Enter no 1: ");
              int a = s.nextInt();
@@ -20,7 +20,7 @@ public class F1_sum2No {
              String ch = s.next();
 
              if(ch.equals("n")){
-                 isCondition = false;
+                 continuePrgrm = false;
              }
 
          }
