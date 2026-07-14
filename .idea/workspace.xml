@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5319a52-ea01-4246-a46c-7bf76ca2db60" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1_basicPractice/F1_sum2No.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1_basicPractice/F1_sum2No.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p3_patterns/Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p3_patterns/Pattern1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,40 +44,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.F1_sum2No.executor": "Run",
-    "Application.F2_swapNo.executor": "Run",
-    "Application.Pattern1.executor": "Run",
-    "Application.Pattern10.executor": "Run",
-    "Application.Pattern11.executor": "Run",
-    "Application.Pattern12.executor": "Run",
-    "Application.Pattern13.executor": "Debug",
-    "Application.Pattern14.executor": "Run",
-    "Application.Pattern2.executor": "Run",
-    "Application.Pattern3.executor": "Run",
-    "Application.Pattern4.executor": "Run",
-    "Application.Pattern5.executor": "Run",
-    "Application.Pattern6.executor": "Run",
-    "Application.Pattern7.executor": "Run",
-    "Application.Pattern8.executor": "Run",
-    "Application.Pattern9.executor": "Run",
-    "Application.f1_print1toN.executor": "Run",
-    "Application.f2_printEvenODD.executor": "Run",
-    "Application.f3_greaterNo.executor": "Run",
-    "Application.f4_evenOdd.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/SHREE/IdeaProjects/dsa_java/src/Main.java",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.F1_sum2No.executor&quot;: &quot;Run&quot;,
+    &quot;Application.F2_swapNo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern13.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Pattern14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.f1_print1toN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.f2_printEvenODD.executor&quot;: &quot;Run&quot;,
+    &quot;Application.f3_greaterNo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.f4_evenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/SHREE/IdeaProjects/dsa_java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.F1_sum2No">
+    <configuration name="F1_sum2No" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p1_basicPractice.F1_sum2No" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p1_basicPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p3_patterns.Pattern1" />
       <module name="dsa-java" />
@@ -129,19 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p3_patterns.Pattern7" />
-      <module name="dsa-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="p3_patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Pattern9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p3_patterns.Pattern9" />
       <module name="dsa-java" />
@@ -157,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pattern11" />
+        <item itemvalue="Application.F1_sum2No" />
         <item itemvalue="Application.Pattern1" />
+        <item itemvalue="Application.Pattern11" />
         <item itemvalue="Application.Pattern10" />
         <item itemvalue="Application.Pattern9" />
-        <item itemvalue="Application.Pattern7" />
       </list>
     </recent_temporary>
   </component>
