@@ -1,4 +1,4 @@
-package p4_arrays;
+package p4_BasicArrayManipulation;
 import java.util.Arrays;
 import java.util.Scanner;
 public class F4_2d_array {

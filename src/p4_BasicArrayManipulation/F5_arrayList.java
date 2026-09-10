@@ -1,4 +1,4 @@
-package p4_arrays;
+package p4_BasicArrayManipulation;
 import java.util.ArrayList;
 import java.util.Scanner;
 public class F5_arrayList {

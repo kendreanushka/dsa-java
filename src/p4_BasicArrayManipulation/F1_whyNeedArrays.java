@@ -1,4 +1,4 @@
-package p4_arrays;
+package p4_BasicArrayManipulation;
 
 public class F1_whyNeedArrays {
     public static void main(String[] args) {

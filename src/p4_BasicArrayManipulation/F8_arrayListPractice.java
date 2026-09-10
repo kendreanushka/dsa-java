@@ -1,5 +1,4 @@
-package p4_arrays;
-import java.sql.SQLOutput;
+package p4_BasicArrayManipulation;
 import java.util.ArrayList;
 import java.util.Scanner;
 public class F8_arrayListPractice {
