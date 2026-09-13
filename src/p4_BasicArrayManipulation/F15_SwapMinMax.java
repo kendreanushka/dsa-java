@@ -2,6 +2,7 @@ package p4_BasicArrayManipulation;
 
 import java.util.Arrays;
 public class F15_SwapMinMax {
+    //n array, find mix and max ele,swap them,print swapped ele array
     public static void main(String[] args) {
         int[] arr = {2,6,3,1,4};
         System.out.println(Arrays.toString(arr));
@@ -42,13 +43,6 @@ public class F15_SwapMinMax {
         arr[imax] =t;
 
         System.out.println(Arrays.toString(arr));
-
-
-
-
-
-
-
 
     }
 }
